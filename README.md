@@ -1,0 +1,2 @@
+# chownat
+ chownat, pronounced "chone nat", allows two peers behind        two separate NATs with NO port forwarding and NO DMZ setup        on their routers to directly communicate with each other.         There is NO middle man, NO proxy, NO 3rd party, and the        application runs as an unprivileged user on both ends.         More importantly, it opens up a tunnel between the two        machines so one peer can access a service, such as a web        server, on the other machine which is also behind a NAT.
